@@ -1,3 +1,6 @@
+## Temp fork for use of apikey instead of login credentials
+This will be obsolete as soon as there is support for apikey usage in the main rep [hjdhjd/unifi-access](https://github.com/hjdhjd/unifi-access).
+
 <SPAN ALIGN="CENTER" STYLE="text-align:center">
 <DIV ALIGN="CENTER" STYLE="text-align:center">
 
@@ -42,5 +45,5 @@ This is mostly of interest to the true developer nerds amongst us.
 
 [![License](https://img.shields.io/npm/l/unifi-access?color=%230559C9&logo=open%20source%20initiative&logoColor=%23FFFFFF&style=for-the-badge)](https://github.com/hjdhjd/unifi-access/blob/main/LICENSE.md)
 [![Build Status](https://img.shields.io/github/workflow/status/hjdhjd/unifi-access/Continuous%20Integration?color=%230559C9&logo=github-actions&logoColor=%23FFFFFF&style=for-the-badge)](https://github.com/hjdhjd/unifi-access/actions?query=workflow%3A%22Continuous+Integration%22)
-[![Dependencies](https://img.shields.io/librariesio/release/npm/unifi-access?color=%230559C9&logo=dependabot&style=for-the-badge)](https://libraries.io/npm/uniti-access)
+[![Dependencies](https://img.shields.io/librariesio/release/npm/unifi-access?color=%230559C9&logo=dependabot&style=for-the-badge)](https://libraries.io/npm/unifi-access)
 [![GitHub commits since latest release (by SemVer)](https://img.shields.io/github/commits-since/hjdhjd/unifi-access/latest?color=%230559C9&logo=github&sort=semver&style=for-the-badge)](https://github.com/hjdhjd/unifi-access/commits/main)

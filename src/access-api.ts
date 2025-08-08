@@ -397,7 +397,7 @@ export class AccessApi extends EventEmitter {
 
     // Log us in if needed.
     if(!(await this.loginController())) {
-  
+
       return false;
     }
 
@@ -841,7 +841,9 @@ export class AccessApi extends EventEmitter {
     // Initialize the headers we need.
     this.headers = new Headers();
     this.headers.set("Content-Type", "application/json");
-    if (this.apikey) {
+
+    if(this.apikey) {
+
       this.headers.set("X-API-KEY", this.apikey);
     }
 
